@@ -1,2 +1,2 @@
 # experiment
-my first project
+my first mini project
